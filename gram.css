@@ -148,7 +148,7 @@ span>a {
 
  /*Footer Style */
  footer {
-     border-top:2px solid rgb(121, 120, 120);
+     border-top:2px solid rgb(202, 200, 200);
      margin-right: 180px;
      margin-left: 180px;
      margin-top: 50px;
@@ -168,6 +168,9 @@ span>a {
     text-decoration: none;
     color: #262626;
     font-family: 'Roboto', sans-serif;
+}
+footer a:hover{
+opacity: 0.5;
 }
 footer a:nth-child(3){
     margin: 20px;
